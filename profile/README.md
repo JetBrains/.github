@@ -5,9 +5,9 @@ At JetBrains we create, contribute, and support Open Source projects. We are the
 
 ### JetBrains on GitHub 
 
-This organization houses many of the Open Source projects we work on and provide to the community. We have many different types of projects on GitHub. Each project has a label indicating the type of project it is:
+This organization houses many of the Open Source projects we work on and provide to the community. Each one has a label that categorises the type of project it is:
 
-Colons can be used to align columns.
+
 
 | Label        | Description           
 | ------------- |-------------|
