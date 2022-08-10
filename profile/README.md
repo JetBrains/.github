@@ -19,7 +19,7 @@ Colons can be used to align columns.
 
 
  
-## Helping Open Source
+### Helping Open Source
 
 In addition to creating and maintaining Open Source projects, JetBrains also contributes, sponsors (both financially and via licenses) many Open Source projects. Find out more about how [JetBrains helps Open Source](https://jetbrains.com/opensource).
 
